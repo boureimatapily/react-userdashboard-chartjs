@@ -6,12 +6,12 @@ const Dashboard = () => {
     return (
         <div>
           <div className="container-fluid">
-              <div className="row">
-                  <div className="col-3">
+              <div className="row no-gutters">
+                  <div className="col-2 sidebarcard">
                       <Sidebar />
 
                   </div>
-                  <div className="col-9">
+                  <div className="col-10">
                         <MainContent />
                   </div>
               </div>

@@ -15,3 +15,33 @@
     background-color: white;
    margin: 5px 0px 0px 5px;
 }
+
+.mainCcardheader{
+    height: 60px;
+    color: white;
+}
+.summaryCardheader{
+    height: 40px;
+    color: white;
+}
+.summaryItemCard{
+    margin-right: 20px;
+}
+.mainCardbody{
+    background-color: rgb(211, 231, 222);
+}
+.sidebarcard {
+    background-color: rgb(45, 44, 46);
+ }
+.sidebarcard a{
+    background-color: rgb(45, 44, 46);
+    color: white;
+}
+.sidebarcard a:hover{
+    background-color: rgb(213, 240, 150);
+    color:red;
+    font-weight: bolder;
+}
+.sidebarcard a img{
+   background-color:white;
+}
